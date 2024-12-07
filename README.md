@@ -14,4 +14,5 @@ be due to the values needed being at the beginning stages of the model
 and the linearization of this model makes the more accurate numbers in
 the beginning.
 
-Part 4: Brendon
+Part 4: Brendan Daniels
+This part involves using signal analysis to analyze the spread of the disease in terms of rates amongst a population with varying outcomes. The frequencies were representative of rates of spread and recovery, with varying periodicity given different omega values. Using fast fourier transform we are able to examine each component of the diseases vs time, and establish relationships and identify maximum values.Identifying the significance of the periods, and which markers caused a change in them. First starting with a higher value and then repeating the proceses with a lower value omega with much different behavior.
